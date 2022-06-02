@@ -1,25 +1,22 @@
-import logo from './logo.svg';
 import './App.css';
+import { Routes, Route } from "react-router-dom";
+import SingleMovie from './SingleMovie';
+import Home from './Home';
+import TvPage from './TvPage';
+import SingleTv from './SingleTv';
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+  <Routes>
+    <Route exact path="/" element={<Home />}/>
+    <Route path="/tv" element={<TvPage />}/>
+    <Route path="movie/:movieId" element={<SingleMovie />}/>
+    <Route path="tv/:tvId" element={<SingleTv />}/>
+  </Routes>
   );
 }
 
 export default App;
+
+
