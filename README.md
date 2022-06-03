@@ -35,7 +35,9 @@
 <!-- ABOUT THE PROJECT -->
 ## Présentation du projet
 
-![Screenshot](Capture d’écran 2022-06-03 à 10.36.23.png)
+<p align="center">
+  <img src="./Capture d’écran 2022-06-03 à 10.36.23.png" width="350" title="hover text">
+</p>
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
