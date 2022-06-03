@@ -61,7 +61,7 @@ Lucas Bouillon - contact@lucasbouillon.com
 
 <a href="https://lucasbouillon.com/">Site web personnel</a>
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">Retour en haut</a>)</p>
 
 
 
