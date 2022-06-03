@@ -22,11 +22,12 @@
   <img src="./Capture d’écran 2022-06-03 à 10.36.37.png" width="450" title="hover text">
 </p>
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Application réalisée en React JS avec l'utilisation de "The movie database API". 
 
 Fonctionnalités de l'application :
 * Listing des films les plus populaires
 * Listing des séries les plus populaires
+* Tri par genre
 * Recherche de contenu
 * Page de présentation pour chaque film/série
 
