@@ -71,4 +71,4 @@ Lucas Bouillon - contact@lucasbouillon.com
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/lucas-bouillon-91a75899/
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: /Capture d’écran 2022-06-03 à 10.36.23.png
