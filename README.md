@@ -57,9 +57,9 @@ Cette application a été développé avec les technologies suivante :
 <!-- CONTACT -->
 ## Contact
 
-Lucas Bouillon - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Lucas Bouillon - contact@lucasbouillon.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Site web personnel : [site-url]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -72,3 +72,4 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/lucas-bouillon-91a75899/
 [product-screenshot]: images/screenshot.png
+[site-utl]: https://lucasbouillon.com
