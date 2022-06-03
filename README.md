@@ -35,7 +35,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary>Table des matières</summary>
   <ol>
     <li>
       <a href="#about-the-project">Présentation du projet</a>
@@ -44,7 +44,7 @@
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#getting-started">Guide d'utilisation</a>
       <ul>
         <li><a href="#prerequisites">Prérequis</a></li>
         <li><a href="#installation">Installation</a></li>
@@ -57,7 +57,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Présentation du projet
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
