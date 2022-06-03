@@ -35,7 +35,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Présentation du projet
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![Screenshot](Capture d’écran 2022-06-03 à 10.36.23.png)
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
@@ -71,4 +71,3 @@ Lucas Bouillon - contact@lucasbouillon.com
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/lucas-bouillon-91a75899/
-[product-screenshot]: /Capture d’écran 2022-06-03 à 10.36.23.png
