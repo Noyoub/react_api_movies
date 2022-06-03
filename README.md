@@ -19,12 +19,12 @@
 
 ### Page d'accueil
 <p align="left">
-  <img src="./Capture d’écran 2022-06-03 à 10.36.23.png" width="450" title="hover text">
+  <img src="./Capture d’écran 2022-06-03 à 10.36.23.png" width="100%" title="hover text">
 </p>
 
 ### Page de présentation de chaque film/série
 <p align="left">
-  <img src="./Capture d’écran 2022-06-03 à 10.36.37.png" width="450" title="hover text">
+  <img src="./Capture d’écran 2022-06-03 à 10.36.37.png" width="100%" title="hover text">
 </p>
 
 Application réalisée en React JS avec l'utilisation de "The movie database API". 
