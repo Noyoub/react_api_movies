@@ -59,7 +59,7 @@ Cette application a été développé avec les technologies suivante :
 
 Lucas Bouillon - contact@lucasbouillon.com
 
-Site web personnel : [site-url]
+<a href="[http://reactmovies.lucasbouillon.com/](https://lucasbouillon.com)">Site web personnel</a>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -72,4 +72,3 @@ Site web personnel : [site-url]
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/lucas-bouillon-91a75899/
 [product-screenshot]: images/screenshot.png
-[site-utl]: https://lucasbouillon.com
