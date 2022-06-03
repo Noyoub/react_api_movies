@@ -17,13 +17,13 @@
 <!-- ABOUT THE PROJECT -->
 ## Présentation du projet
 
+### Page d'accueil
 <p align="left">
-  ### Page d'accueil
   <img src="./Capture d’écran 2022-06-03 à 10.36.23.png" width="450" title="hover text">
 </p>
 
+### Page unique d'un film/série
 <p align="left">
-   ### Page unique d'un film/série
   <img src="./Capture d’écran 2022-06-03 à 10.36.37.png" width="450" title="hover text">
 </p>
 
