@@ -59,7 +59,7 @@ Cette application a été développé avec les technologies suivante :
 
 Lucas Bouillon - contact@lucasbouillon.com
 
-<a href="[http://reactmovies.lucasbouillon.com/](https://lucasbouillon.com)">Site web personnel</a>
+<a href="https://lucasbouillon.com/">Site web personnel</a>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
