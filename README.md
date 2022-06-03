@@ -27,7 +27,7 @@
     Un projet développé en React JS.
     <br />
     <br />
-    <a href="https://http://reactmovies.lucasbouillon.com/">Démo de l'application</a>
+    <a href="http://reactmovies.lucasbouillon.com/">Démo de l'application</a>
   </p>
 </div>
 
