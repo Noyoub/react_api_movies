@@ -52,6 +52,10 @@ Lucas Bouillon - contact@lucasbouillon.com
 
 <a href="https://lucasbouillon.com/">Site web personnel</a>
 
+### Contributeur
+
+<img src="https://user-images.githubusercontent.com/78078418/115210740-30c12100-a0ff-11eb-9bb3-99622b221a81.png" title="Lucas Bouillon" width="200px" align="left"/>
+
 <p align="right">(<a href="#top">Retour en haut</a>)</p>
 
 
